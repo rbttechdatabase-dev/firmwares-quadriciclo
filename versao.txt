@@ -1,0 +1,1 @@
+1.0.1,raw.githubusercontent.com,/rbttechdatabase-dev/firmwares-quadriciclo/main/firmware_101.bin
