@@ -1,1 +1,1 @@
-1.0.2,raw.githubusercontent.com,/rbttechdatabase-dev/firmwares-quadriciclo/main/firmware_102.bin
+1.0.3,raw.githubusercontent.com,/rbttechdatabase-dev/firmwares-quadriciclo/main/firmware_103.bin
